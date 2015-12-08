@@ -6,4 +6,4 @@ Mi bio:
     from:madrid
     favorite food: salad
     hobby: cycling
-
+    Favorite color: green
